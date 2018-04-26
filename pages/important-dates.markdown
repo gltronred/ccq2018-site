@@ -9,10 +9,10 @@ categories: jekyll update
 
 
 
-* Deadline for submissions: <s>April 1, 2017</s> <span style="color: red">April 9, 2017</span> (AoE).
+* Deadline for submissions: May 25, 2018 (AoE).
 
-* Author notification: May 05, 2017.
+* Author notification: June 20, 2018.
 
-* Final version due: May 20, 2017.
+* Final version due: July 5, 2018.
 	
-* Workshop date: June 7, 2017. 
+* Workshop date: July 21, 2018. 

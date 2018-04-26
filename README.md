@@ -1,4 +1,4 @@
-# Website of Computation and Cryptography with Qubits-2017 workshop (affiliated with CSR 2017)
+# Website of Computation and Cryptography with Qubits-2018 workshop (affiliated with CSR 2018)
 
 ## To build locally
 

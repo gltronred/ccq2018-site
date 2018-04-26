@@ -14,13 +14,13 @@ All accepted papers will be available as a printed book during the workshop.
 The accepted papers eligible to a journal submission will be invited to a special issue of the journal [Lobachevskii Journal of Mathematics][ljm]. LJM indexed by SCOPUS, ESCI, and others. 
 # Important Dates
 
-Deadline for submissions: April 1, 2017 (AoE).
 
-Author notification: May 05, 2017.
+Deadline for submissions: May 25, 2018 (AoE).
 
-Final version due: May 20, 2017.
+Author notification: June 20, 2018.
+
+Final version due: July 5, 2018.
 	
-Workshop date: June 7, 2017. 
-
+Workshop date: July 21, 2018. 
 
 [ljm]: http://www.springer.com/mathematics/journal/12202

@@ -7,4 +7,4 @@ categories: jekyll update
 
 #Invited Lecture
 
-<a href="http://logic.pdmi.ras.ru/~hirsch/">Edward A. Hirsch (St.Petersburg, Russia)</a>
+TBA

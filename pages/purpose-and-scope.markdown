@@ -13,5 +13,6 @@ possible and indeed welcomed. Also, well-written tutorials on specific topics ca
 * Cryptography
 * Quantum and random walks
 * Automata theory
+* Quantum learning
 
 
